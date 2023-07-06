@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo  change betty hello
+sudo change betty hello
