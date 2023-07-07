@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo change betty hello
+chown betty hello`
